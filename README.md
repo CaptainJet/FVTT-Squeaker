@@ -5,7 +5,7 @@ Based on an idea from Gen Kitty.
 
 ## Setup
 To install this module, go to the World Configuration and Setup, Addon Modules, Install Module.
-Then you may copy this url https://github.com/jbblily/FVTT-Squeaker/releases/latest/download/module.json
+Then you may copy this url https://github.com/captainjet/FVTT-Squeaker/releases/latest/download/module.json
 In the Module Settings you can specify if you want to reset the modifier value after usage (default to true);
 
 ## Contributions
